@@ -1,0 +1,47 @@
+[21-May-2024 19:27:34 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
+[21-May-2024 19:27:37 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
+[21-May-2024 19:34:55 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
+[21-May-2024 19:34:55 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'proplso1_inelda23'@'162.241.61.154' (using password: YES) in /home2/proplso1/public_html/prueba/lib/conexion.php:11
+Stack trace:
+#0 /home2/proplso1/public_html/prueba/lib/conexion.php(11): mysqli_connect('proplsor-online...', 'proplso1_inelda...', Object(SensitiveParameterValue), 'proplso1_inelda...')
+#1 /home2/proplso1/public_html/prueba/lib/funciones.php(95): conectar()
+#2 /home2/proplso1/public_html/prueba/admin/index.php(44): cargar_casos()
+#3 {main}
+  thrown in /home2/proplso1/public_html/prueba/lib/conexion.php on line 11
+[21-May-2024 19:34:56 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
+[21-May-2024 19:34:56 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'proplso1_inelda23'@'162.241.61.154' (using password: YES) in /home2/proplso1/public_html/prueba/lib/conexion.php:11
+Stack trace:
+#0 /home2/proplso1/public_html/prueba/lib/conexion.php(11): mysqli_connect('proplsor-online...', 'proplso1_inelda...', Object(SensitiveParameterValue), 'proplso1_inelda...')
+#1 /home2/proplso1/public_html/prueba/lib/funciones.php(95): conectar()
+#2 /home2/proplso1/public_html/prueba/admin/index.php(44): cargar_casos()
+#3 {main}
+  thrown in /home2/proplso1/public_html/prueba/lib/conexion.php on line 11
+[21-May-2024 19:36:36 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
+[21-May-2024 19:36:36 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'proplso1_inelda23'@'162.241.61.154' (using password: YES) in /home2/proplso1/public_html/prueba/lib/conexion.php:11
+Stack trace:
+#0 /home2/proplso1/public_html/prueba/lib/conexion.php(11): mysqli_connect('proplsor-online...', 'proplso1_inelda...', Object(SensitiveParameterValue), 'proplso1_inelda...')
+#1 /home2/proplso1/public_html/prueba/lib/funciones.php(95): conectar()
+#2 /home2/proplso1/public_html/prueba/admin/index.php(44): cargar_casos()
+#3 {main}
+  thrown in /home2/proplso1/public_html/prueba/lib/conexion.php on line 11
+[21-May-2024 19:36:37 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
+[21-May-2024 19:36:37 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'proplso1_inelda23'@'162.241.61.154' (using password: YES) in /home2/proplso1/public_html/prueba/lib/conexion.php:11
+Stack trace:
+#0 /home2/proplso1/public_html/prueba/lib/conexion.php(11): mysqli_connect('proplsor-online...', 'proplso1_inelda...', Object(SensitiveParameterValue), 'proplso1_inelda...')
+#1 /home2/proplso1/public_html/prueba/lib/funciones.php(95): conectar()
+#2 /home2/proplso1/public_html/prueba/admin/index.php(44): cargar_casos()
+#3 {main}
+  thrown in /home2/proplso1/public_html/prueba/lib/conexion.php on line 11
+[21-May-2024 19:38:57 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
+[21-May-2024 19:38:57 America/Bogota] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for sh-pro14.co failed: Name or service not known in /home2/proplso1/public_html/prueba/lib/conexion.php on line 11
+[21-May-2024 19:38:57 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for sh-pro14.co failed: Name or service not known in /home2/proplso1/public_html/prueba/lib/conexion.php:11
+Stack trace:
+#0 /home2/proplso1/public_html/prueba/lib/conexion.php(11): mysqli_connect('sh-pro14.co', 'proplso1_inelda...', Object(SensitiveParameterValue), 'proplso1_inelda...')
+#1 /home2/proplso1/public_html/prueba/lib/funciones.php(95): conectar()
+#2 /home2/proplso1/public_html/prueba/admin/index.php(44): cargar_casos()
+#3 {main}
+  thrown in /home2/proplso1/public_html/prueba/lib/conexion.php on line 11
+[21-May-2024 23:51:30 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
+[22-May-2024 02:05:41 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
+[22-May-2024 02:05:49 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
+[22-May-2024 03:07:28 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home2/proplso1/public_html/prueba/admin/index.php on line 41
